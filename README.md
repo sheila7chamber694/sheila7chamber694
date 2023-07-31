@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sheila7chamber694
+- 👀 I’m interested in Software Engineering. I’m currently learning C++.
+- 🌱 Passionate about systems programming and love tackling complex problems.
